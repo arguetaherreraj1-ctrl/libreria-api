@@ -80,5 +80,5 @@ Se utiliza autenticación basada en **Bearer Token (JWT)**[cite: 7, 8].
 - **Crear libro:** `POST /libros` -> Header: `Authorization: Bearer <token>` -> Body JSON: `{"titulo": "Nuevo Libro", "autor": "Autor", "isbn": "978-0000000001", "anio": 2024, "existencia": 10, "editorial_id": 1}`[cite: 2, 6]
 
 ## URL de producción
-- **API Base:** `https://tu-proyecto.onrender.com`[cite: 8, 9]
-- **Documentación Swagger:** `https://tu-proyecto.onrender.com/docs`[cite: 2, 8, 9]
+- **API Base:** https://libreria-api-jxug.onrender.com
+- **Documentación Swagger:** https://libreria-api-jxug.onrender.com/docs
